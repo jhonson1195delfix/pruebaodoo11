@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_product_template_adaptation_a,"Permisos para account.invoice,report a",model_account_invoice_report,account.group_account_manager,1,1,1,0
+access_product_template_adaptation_b,"Permisos para account.invoice,report b",model_account_invoice_line,account.group_account_manager,1,1,1,0
+access_product_template_adaptation_c,"Permisos para account.invoice,report c",model_sale_order_line,account.group_account_manager,1,1,1,0
+access_product_template_adaptation_d,"Permisos para product.template,report d",model_product_template,account.group_account_manager,1,1,1,0
